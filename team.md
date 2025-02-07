@@ -52,8 +52,8 @@ The team members have a long and outstanding track of research and developement 
       <p>Computer Scientist, LLNL</p>
     </td>
     <td style="text-align: center; border: none;">
-      <img src="{{ site.baseurl }}/assets/images/headshot_generic.png" alt="Jingyi Wang" style="width: 150px; border-radius: 50%;">
-      <p>Jingyi "Frank" Wang</p>
+      <img src="{{ site.baseurl }}/assets/images/wang.jpg" alt="Jingyi Wang" style="width: 150px; border-radius: 50%;">
+      <p><a href="https://scholar.google.com/citations?user=-DqsMAsAAAAJ&hl=en&oi=sra">Jingyi "Frank" Wang</a></p>
       <p>Computational Mathematician, LLNL</p>
     </td>    
   </tr>
