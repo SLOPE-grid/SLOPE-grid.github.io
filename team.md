@@ -45,28 +45,38 @@ The team members have a long and outstanding track of research and developement 
       <p>Computer Scientist, LLNL</p>
     </td>
   </tr>
-  <tr>
+   <tr>
     <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/headshot_generic.png" alt="Claudio Santiago" style="width: 150px; border-radius: 50%;">
       <p>Claudio Santiago</p>
       <p>Computer Scientist, LLNL</p>
     </td>
     <td style="text-align: center; border: none;">
+      <img src="{{ site.baseurl }}/assets/images/headshot_generic.png" alt="Jingyi Wang" style="width: 150px; border-radius: 50%;">
+      <p>Jingyi "Frank" Wang</p>
+      <p>Computational Mathematician, LLNL</p>
+    </td>    
+  </tr>
+  <tr>
+    <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/tongsu.png" alt="Tong Su" style="width: 150px; border-radius: 50%;">
       <p>Tong Su</p>
       <p>PhD student in electric engineering, UCONN</p>
     </td>    
-  </tr>
-   <tr>
     <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/iromeoruiz.jpg" alt="Irabiel Romero Ruiz" style="width: 150px; border-radius: 50%;">
       <p><a href="https://appliedmath.ucmerced.edu/content/irabiel-romero">Irabiel Romero Ruiz</a></p>
       <p>PhD candidate in Applied Mathematics, UCM</p>
     </td>
+   </tr>
+   <tr>
     <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/caoyangcheng.jpg" alt="Caoyang Cheng" style="width: 150px; border-radius: 50%;">
       <p>Caoyang Cheng</p>
       <p>PhD candidate in electric engineering, UCONN</p>
-    </td>    
+    </td>
+    <td style="text-align: center; border: none;">
+      &nbsp;
+    </td>
   </tr> 
 </table>
