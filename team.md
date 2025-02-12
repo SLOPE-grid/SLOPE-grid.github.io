@@ -40,7 +40,7 @@ The team members have a long and outstanding track of research and developement 
       <p>Principal Specialist, Computer Science, ANL</p>
     </td>
     <td style="text-align: center; border: none;">
-      <img src="{{ site.baseurl }}/assets/images/headshot_generic.png" alt="Nai-Yuan Chiang" style="width: 150px; border-radius: 50%;">
+      <img src="{{ site.baseurl }}/assets/images/chiang.png" alt="Nai-Yuan Chiang" style="width: 150px; border-radius: 50%;">
       <p>Nai-Yuan Chiang</p>
       <p>Computer Scientist, LLNL</p>
     </td>
