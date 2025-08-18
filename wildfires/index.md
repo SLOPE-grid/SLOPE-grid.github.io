@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Wildfires and power grid"
-permalink: /docs/
+permalink: /wildfires/
 ---
 
 # Wildfire impact on power grids - California test cases
