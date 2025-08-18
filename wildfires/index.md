@@ -11,16 +11,16 @@ We intersect wildfire paths (both realtime probabilistic forecasts and historica
 
 ## Monument wildfire
 
-how many elements off, time and data, location. some conclusion remarks
+Irabiel : how many elements off, time and data, location. some conclusion remarks
 
 Interactive map of CATS and wildfires, togheter with the minimal disruptions on power flows found by our methodology is shown <a href="{{ site.baseurl }}/wildfires/monument.html">here</a>.
 
 ## Eaton fire
 
-how many elements off, time and data, location. some conclusion remarks
+Irabiel : how many elements off, time and data, location. some conclusion remarks
 
-add html
+Irabiel : add html
 
 ## Stress test - multiple wilfires
 
-4 wildfires, same description, some remarks, and the html file
+[4 wildfires html] Irabiel: same as above
