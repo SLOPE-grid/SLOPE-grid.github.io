@@ -42,6 +42,8 @@ plugins:
 nav:
   - title: "Team"
     url: /team/
+  - title: "Outcomes"
+    url: /outcomes
 #  - title: "Publications"
 #    url: /publications/
 #  - title: "Gallery"
