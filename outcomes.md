@@ -9,7 +9,6 @@ permalink: /outcomes/
 ## Power grid short-term response to wildfires (Aug 2025)
 
 We developed capabilities that intersect wildfire paths (both realtime probabilistic forecasts and historical data) with power grids. This allows  detecting grid components that may be affected by wildfire and building a list of N-k contingencies. Nonlinear  N-k security-constrained ACOPF models are used to optimally and safely position the grid with respect to this contingencies. Test cases using California test system and California wildfires are available <a href="{{ site.baseurl }}/wildfires/">here</a>.
--->
 
 ## Release of <a href="https://github.com/LLNL/exajugo">ExaJuGO</a>: a Julia library for SC-ACOPF (Apr 2025)
 
