@@ -26,7 +26,7 @@ Number of off transformers: 0
 Number of off generator buses: 0
 -->
 
-Interactive map of CATS and wildfires, together with the minimally disrupted CATS power flows found by our methodology is shown <a href="{{ site.baseurl }}/wildfires/monument_SD_12.html">here</a>.
+Interactive map of CATS and wildfires, together with the minimally disrupted CATS power flows found by our methodology is shown <a href="{{ site.baseurl }}/wildfires/Monument_SD_12.html">here</a>.
 
 ## Eaton fire
 The Eaton wildfire occurred in Los Angeles County, Southern California. The fire began on January 7, 2025, and was contained on January 31, 2025, ultimately burning 14,021 acres. This was one of several major fires occurring simultaneously in the region.
