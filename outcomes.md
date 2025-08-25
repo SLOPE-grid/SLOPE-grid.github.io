@@ -8,7 +8,9 @@ permalink: /outcomes/
 
 ## Power grid short-term response to wildfires (Aug 2025)
 <div style="text-align: center;">
+<a href="{{ site.baseurl }}/wildfires/">
   <img src="{{ site.baseurl }}/wildfires/four_wildfires_pic.png" alt="4 concurent California wildfires">
+</a>
 </div>
 We developed capabilities that intersect wildfire paths (both realtime probabilistic forecasts and historical data) with power grids. This allows  detecting grid components that may be affected by wildfire and building a list of N-k contingencies. Nonlinear  N-k security-constrained ACOPF models are used to optimally and safely position the grid with respect to this contingencies. Test cases using California test system and California wildfires are available <a href="{{ site.baseurl }}/wildfires/">here</a>.
 
