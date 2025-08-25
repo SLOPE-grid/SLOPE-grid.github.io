@@ -34,7 +34,7 @@ theme: minima
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
-  - jekyll-archives
+#  - jekyll-archives
 
 
 

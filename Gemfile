@@ -21,7 +21,7 @@ end
 
 
 gem "minimal-mistakes-jekyll", "4.26.2"
-gem "jekyll-archives", "~> 2.3.0"
+# gem "jekyll-archives", "~> 2.3.0"
 gem "faraday-retry", "~> 2.2.1"
 gem "jekyll-sass-converter", "~> 3.0.0"
 gem "i18n", "~> 1.14.6"
