@@ -34,20 +34,25 @@ theme: minima
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
-#  - jekyll-archives
 
 
 
 # Navigation
-nav:
-  - title: "Team"
-    url: /team/
-  - title: "Outcomes"
-    url: /outcomes
-#  - title: "Publications"
-#    url: /publications/
-#  - title: "Gallery"
-#    url: /gallery/
+#nav:
+#  - title: "Outcomes"
+#    url: /outcomes/
+#  - title: "Wildfires and power grid"
+#    url: /wildfires/
+#  - title: "Team"
+#    url: /team/
+
+
+header_pages:
+#  - index.md 
+  - wildfires/index.md
+  - outcomes.md
+  - team.md     
+
 
 
 # Exclude from processing.
