@@ -11,7 +11,7 @@ permalink: /outcomes/
 I. Romero, N. Chiang, I. Aravena, R. Marcia, N. Petra, JP. Watson, C. G. Petra, <i>Wildfire-driven N-k contingency generation for security-constrained AC optimal power flow in the California power grid</i>, submitted, 2026. <a href="{{ site.baseurl }}/romero_wildfire.pdf">PDF.</a>
 
 ## Submitted manuscript
-C. G. Petra, <i> A Proximal Oracle Sequential NLP Algorithm for Constrained Nonsmooth Optimization</i>, 2026. <a href="{{ site.baseurl }}/petra_proxsnlp.pdf">PDF.</a>
+C. G. Petra, <i> A Proximal Oracle Sequential NLP Algorithm for Constrained Nonsmooth Optimization</i>, 2026. <a href="{{ site.baseurl }}/petra_proxsnlp_long.pdf">PDF.</a>
 
 ## Accepted paper
 
