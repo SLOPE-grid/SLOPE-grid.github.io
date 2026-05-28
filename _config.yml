@@ -23,11 +23,11 @@
 
 
 title: "SciDAC OE-ASCR Partnership"
-author: "Lawrence Livermore National Lab -- Argonne National Lab -- University of Connecticut"
+author: "Lawrence Livermore National Lab -- Argonne National Lab -- Dartmouth College"
 # [qn] can we display logos easily instead of above text? 
 description: ""
 url: "https://slope-grid.github.io"
-baseurl: "/SLOPE-Grid"
+baseurl: ""
 theme: minima
 
 # Minimal Mistakes specific configuration (if using this theme)
