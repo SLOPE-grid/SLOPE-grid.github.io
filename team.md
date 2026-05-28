@@ -6,7 +6,7 @@ permalink: /team/
 
 # Our Team
 
-The team members have a long and outstanding track of research and developement in mathematical optimization, uncertainty quantification, machine learning, electrical power systems, and high-performance computing. This collaborative project involves researchers at Lawrence Livermore National Laboratories (LLNL) and Argonne National Laboratory (ANL) as well as professors and graduate students from University of Connecticut (UConn) and University of California Merced (UCM). This projects stems from the DOE <a href="https://www.exascaleproject.org/"> Exascale Computing Program </a> and, also, leverages algorithms and software from the SciDAC <a href="https://scidac5-fastmath.lbl.gov">FASTMath</a> and <a href="https://rapids.lbl.gov">RAPIDS</a> institutes.
+The team members have a long and outstanding track of research and developement in mathematical optimization, uncertainty quantification, machine learning, electrical power systems, and high-performance computing. This collaborative project involves researchers at Lawrence Livermore National Laboratories (LLNL) and Argonne National Laboratory (ANL) as well as professors and graduate students from Dartmouth College and University of California Merced (UCM). This projects stems from the DOE <a href="https://www.exascaleproject.org/"> Exascale Computing Program </a> and, also, leverages algorithms and software from the SciDAC <a href="https://scidac5-fastmath.lbl.gov">FASTMath</a> and <a href="https://rapids.lbl.gov">RAPIDS</a> institutes.
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
@@ -24,8 +24,8 @@ The team members have a long and outstanding track of research and developement 
   <tr>
     <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/jzhao.jpg" alt="Junbo Zhao" style="width: 150px; border-radius: 50%;">
-      <p><a href="https://cpes.lab.uconn.edu/advisor"> Junbo Zhao</a></p>
-      <p>Co-PI, Professor, UConn</p>
+      <p><a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao"> Junbo Zhao</a></p>
+      <p>Co-PI, Professor, Dartmouth College</p>
     </td>
     <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/jp-watson.png" alt="Jean-Paul Watson" style="width: 150px; border-radius: 50%;">
@@ -61,7 +61,7 @@ The team members have a long and outstanding track of research and developement 
     <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/tongsu.png" alt="Tong Su" style="width: 150px; border-radius: 50%;">
       <p>Tong Su</p>
-      <p>PhD student in electric engineering, UCONN</p>
+      <p>PhD student in electric engineering, Dartmouth College</p>
     </td>    
     <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/iromeoruiz.jpg" alt="Irabiel Romero Ruiz" style="width: 150px; border-radius: 50%;">
@@ -73,7 +73,7 @@ The team members have a long and outstanding track of research and developement 
     <td style="text-align: center; border: none;">
       <img src="{{ site.baseurl }}/assets/images/caoyangcheng.jpg" alt="Caoyang Cheng" style="width: 150px; border-radius: 50%;">
       <p>Caoyang Cheng</p>
-      <p>PhD candidate in electric engineering, UCONN</p>
+      <p>PhD candidate in electric engineering, Dartmouth College</p>
     </td>
     <td style="text-align: center; border: none;">
       &nbsp;
